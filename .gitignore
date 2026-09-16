@@ -64,3 +64,4 @@ node_modules/
 # Coverage
 coverage/
 *.coverage
+appsettings.local.json
