@@ -35,7 +35,7 @@ public class BotSchedulerService
             rewardRiskRatio: 2.0m,            // 2:1 R:R
             maxPositionSizePercent: 0.10m,    // Max 10% per trade
             maxLeverage: 2.0m,                // Max 2.0x leva
-            commissionsPercent: 0.10m,        // 0.1% commissioni
+            commissionsPercent: 1.0m,        // 1% commissioni
             taxRate: 0.26m                    // 26% tasse
         );
 
